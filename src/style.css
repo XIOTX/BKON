@@ -7,7 +7,7 @@
 }
 
 .BKON-MAIN-FRAME .div-2 {
-  background-image: url(./BG-panel.png);
+  background-image: url(./BG-Panel.svg);
   background-position: 50% 50%;
   background-size: cover;
   height: 1080px;
@@ -40,7 +40,7 @@
 }
 
 .BKON-MAIN-FRAME .year-button {
-  background-image: url(./year-button.png);
+  background-image: url(./Year-Button.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -80,7 +80,7 @@
 }
 
 .BKON-MAIN-FRAME .calendar-tab {
-  background-image: url(./calendar-tab.png);
+  background-image: url(./Calendar-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -114,7 +114,7 @@
 }
 
 .BKON-MAIN-FRAME .planner-tab {
-  background-image: url(./planner-tab.png);
+  background-image: url(./Planner-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -192,7 +192,7 @@
 }
 
 .BKON-MAIN-FRAME .chat-box {
-  background-image: url(./chat-box.png);
+  background-image: url(./Chat-Box.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -258,7 +258,7 @@
 }
 
 .BKON-MAIN-FRAME .theme-button {
-  background-image: url(./theme-button.png);
+  background-image: url(./Theme-Button.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -290,7 +290,7 @@
 }
 
 .BKON-MAIN-FRAME .chat-log {
-  background-image: url(./chat-log.png);
+  background-image: url(./Chat-Log.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -322,7 +322,7 @@
 }
 
 .BKON-MAIN-FRAME .file-storage {
-  background-image: url(./file-storage.png);
+  background-image: url(./File-Storage.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -354,7 +354,7 @@
 }
 
 .BKON-MAIN-FRAME .mode-button {
-  background-image: url(./mode-button.png);
+  background-image: url(./Mode-Button.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -426,7 +426,7 @@
 }
 
 .BKON-MAIN-FRAME .history-button {
-  background-image: url(./history-button.png);
+  background-image: url(./History-Button.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -458,7 +458,7 @@
 }
 
 .BKON-MAIN-FRAME .profile-button {
-  background-image: url(./profile-button.png);
+  background-image: url(./Profile-Button.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -490,7 +490,7 @@
 }
 
 .BKON-MAIN-FRAME .undo-wrapper {
-  background-image: url(./undo.png);
+  background-image: url(./Undo.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -514,7 +514,7 @@
 }
 
 .BKON-MAIN-FRAME .redo-wrapper {
-  background-image: url(./redo.png);
+  background-image: url(./Redo.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -530,7 +530,7 @@
 }
 
 .BKON-MAIN-FRAME .work-section {
-  background-image: url(./work-section.png);
+  background-image: url(./Work-Section.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -560,7 +560,7 @@
 }
 
 .BKON-MAIN-FRAME .life-section {
-  background-image: url(./life-section.png);
+  background-image: url(./Life-Section.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -590,7 +590,7 @@
 }
 
 .BKON-MAIN-FRAME .clock-panel {
-  background-image: url(./clock-panel.png);
+  background-image: url(./Clock-Panel.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -712,7 +712,7 @@
 }
 
 .details {
-  background-image: url(./details.svg);
+  background-image: url(./Details.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -760,7 +760,7 @@
 }
 
 .details .details-window {
-  background-image: url(./details-window.png);
+  background-image: url(./Details-Window.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -775,7 +775,7 @@
 }
 
 .main-panel {
-  background-image: url(./main-panel.png);
+  background-image: url(./Main-Panel.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -989,7 +989,7 @@
 }
 
 .main-panel .monday-tab {
-  background-image: url(./monday-tab.png);
+  background-image: url(./Monday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1021,7 +1021,7 @@
   top: 1px;
 }
 
-.main-panel .tuesday-tab {
+/*.main-panel .tuesday-tab {
   background: linear-gradient(
       0deg,
       rgba(0, 0, 0, 0.2) 0%,
@@ -1041,6 +1041,39 @@
   position: absolute;
   top: 0;
   width: 163px;
+}*/
+
+.main-panel .tuesday-tab {
+  background-image: url(./Tuesday-Tab.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border: 1px solid;
+  border-color: #c080ff;
+  border-radius: 27px 0px 0px 0px;
+  box-shadow: var(--trim-glow-purp);
+  height: 34px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 161px;
+}
+
+.main-panel .text-wrapper-38 {
+  -webkit-text-stroke: 2px #ff5983;
+  border-color: var(--pink-stroke);
+  box-shadow: var(--TRIM-GLOW-PINK);
+  color: transparent;
+  font-family: "Cal Sans-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.8;
+  position: absolute;
+  text-shadow: 0px 0px 18px #ff5983;
+  top: 1px;
 }
 
 .main-panel .text-wrapper-38 {
@@ -1059,7 +1092,7 @@
 }
 
 .main-panel .wednesday-tab {
-  background-image: url(./wednesday-tab.png);
+  background-image: url(./Wednesday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1073,7 +1106,7 @@
 }
 
 .main-panel .thursday-tab {
-  background-image: url(./thursday-tab.png);
+  background-image: url(./Thursday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1104,7 +1137,7 @@
 }
 
 .main-panel .friday-tab {
-  background-image: url(./friday-tab.png);
+  background-image: url(./Friday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1135,7 +1168,7 @@
 }
 
 .main-panel .saturday-tab {
-  background-image: url(./saturday-tab.png);
+  background-image: url(./Saturday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1166,7 +1199,7 @@
 }
 
 .main-panel .sunday-tab {
-  background-image: url(./sunday-tab.png);
+  background-image: url(./Sunday-Tab.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1321,7 +1354,7 @@
 }
 
 .redo-screen {
-  background-image: url(./redo.png);
+  background-image: url(./Redo.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1343,7 +1376,7 @@
 }
 
 .sidebar {
-  background-image: url(./sidebar.png);
+  background-image: url(./Sidebar.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;
@@ -1556,9 +1589,9 @@
   background-color: var(--color-background-disabled-default);
 }
 
-.button.neutral {
-  /* may be styled further */
-}
+/*.button.neutral {
+  may be styled further
+}*/
 
 .button .disabled-0-true {
   color: var(--color-text-disabled-on-disabled);
@@ -1586,7 +1619,7 @@
 }
 
 .undo-screen {
-  background-image: url(./undo.svg);
+  background-image: url(./Undo.svg);
   background-position: 50% 50%;
   background-size: cover;
   border: 1px solid;

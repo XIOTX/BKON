@@ -1,5 +1,4 @@
 import React from "react";
-import { Undo } from "./Undo";
 import "./style.css";
 
 export const UndoScreen = () => {

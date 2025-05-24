@@ -2,9 +2,9 @@ import React from "react";
 import AIVoiceVisualizer from "./AI-voice-visualizer.svg";
 import { Details } from "./Details";
 import { MainPanel } from "./MainPanel";
-import { Redo } from "./Redo";
+import { RedoScreen } from "./Redo";
 import { Sidebar } from "./Sidebar";
-import { Undo } from "./Undo";
+import { UndoScreen } from "./Undo";
 import chosenSectionLine from "./chosen-section-line.svg";
 import fileSeparator from "./file-separator.svg";
 import moonPhase from "./moon-phase.svg";
@@ -89,11 +89,11 @@ export const BkonMainFrame = () => {
         </div>
 
         <div className="undo-wrapper">
-          <Undo className="icon-instance-node" />
+          <UndoScreen className="icon-instance-node" />
         </div>
 
         <div className="redo-wrapper">
-          <Redo className="icon-instance-node" />
+          <RedoScreen className="icon-instance-node" />
         </div>
 
         <Details />
